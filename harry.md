@@ -1,0 +1,4 @@
+Hello, Harry here.
+Harry is a passionate learner with a keen interest in technology and software development. He enjoys exploring new tools, collaborating with others, and continuously improving his skills. With a strong foundation in programming and a curiosity for innovation, Harry is dedicated to making a positive impact in every project he undertakes.
+
+The Git workshop provided valuable hands-on experience with version control concepts and practical usage of Git. Key topics covered included repository initialization, staging and committing changes, branching, merging, and resolving conflicts. Participants learned how to collaborate effectively using Git, manage project history, and utilize essential commands for day-to-day development. The workshop enhanced understanding of distributed version control and improved confidence in using Git for real-world projects
